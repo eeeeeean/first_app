@@ -9,6 +9,7 @@ first_app
 =========
 THis is Ian's change
 
+This is from the new branch
 The first app for the Ruby on Rails Tutorial
 
 Ruby version	2.0.0 (x86_64-darwin13.1.0)
