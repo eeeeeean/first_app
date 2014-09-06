@@ -7,6 +7,7 @@ by [Michael Hartl](http://michaelhartl.com/).
 =======
 first_app
 =========
+THis is Ian's change
 
 The first app for the Ruby on Rails Tutorial
 
@@ -19,7 +20,7 @@ Active Record version	4.0.8
 Action Pack version	4.0.8
 Action Mailer version	4.0.8
 Active Support version	4.0.8
-Middleware	
+Middleware
 
     Rack::Sendfile
     ActionDispatch::Static
